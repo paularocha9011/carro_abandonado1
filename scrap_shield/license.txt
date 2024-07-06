@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scrap Shield
+* source:	https://sketchfab.com/3d-models/scrap-shield-43991debf2b649e4b0c5bb62fda78442
+* author:	max_imum (https://sketchfab.com/max_imum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scrap Shield" (https://sketchfab.com/3d-models/scrap-shield-43991debf2b649e4b0c5bb62fda78442) by max_imum (https://sketchfab.com/max_imum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
